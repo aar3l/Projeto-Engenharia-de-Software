@@ -23,7 +23,6 @@
     {"id": 21, "nome": "encantamento perdido", "texto": "você não tem limite de mão", "custo": 2, "colors": [""]},
     {"id": 22, "nome": "eldrazi chamativo", "texto": "no inicio de seu turno, todos os oponentes perdem 10 de vida e descartam dois cards", "custo": 10, "colors": [""]},
     {"id": 23, "nome": "truque perdido", "texto": "compre um card", "custo": 2, "colors": [""]},
-    {"id": 23, "nome": "truque perdido", "texto": "compre um card", "custo": 2, "colors": [""]},
 	{"id": 24, "nome": "macaco maluco", "texto": "crie um macaco verde e preto 5/5 com voador, e toque mortífero.", "custo": 3, "colors": ["verde", "preto"]},
 	{"id": 25, "nome": "fogo quente que arde continuamente", "texto": "cause 1 de dano a uma criatura. se ela sofrer dano novamente esse turno de outra carta ou efeito, repita.", "custo": 1, "colors": ["vermelho"]},
 	{"id": 26, "nome": "pisca pisca", "texto": "exile a criautra alvo e a retorne para o campo", "custo": 1, "colors": ["branco"]},
@@ -31,5 +30,5 @@
 	{"id": 28, "nome": "choro de arrependimento", "texto": "retroceda o jogo exatamente a como estava no final do turno anterior, depois descarte sua mão e compre cinco cartas. você perde o jogo em seu próximo início de turno", "custo": 4, "colors": ["azul", "vermelho"]},
 	{"id": 29, "nome": "exilio na miséria", "texto": "exile todas as cartas no campo. No início de sua próxima rodada, retorne elas pro campo.", "custo": 2, "colors": ["branco"]},
 	{"id": 30, "nome": "todos por dois", "texto": "compre duas cartas, cause 2 de dano a todos os oponentes, crie dois ursos verdes 2/2, receba 2 de vida para cada jogador e destrua duas criaturas", "custo": 10, "colors": ["preto", "branco", "azul", "vermelho", "verde"]},
-	{"id": 31, "nome": "florzinha maneira", "texto": "sacrifique florzinha maneira, adicione 5 de mana de qualquer cor", "custo": 0, "colors": [""]}
+	{"id": 31, "nome": "florzinha maneira", "texto": "sacrifique florzinha maneira, adicione 5 de mana de qualquer cor", "custo": 0, "colors": [""]},
 ]
