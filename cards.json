@@ -18,8 +18,16 @@
     {"id": 17, "nome": "raiz parasita", "texto": "sacrifique quatro criaturas suas: destrua duas criaturas e seu controlador cria dois tokens de raizes verdes 1/1", "custo": 1, "colors": ["verde", "preto"]},
     {"id": 18, "nome": "taxidermia predatória", "texto": "destrua a criatura alvo e crie um token que é uma cópia dela", "custo": 7, "colors": ["verde", "preto"]},
     {"id": 19, "nome": "truqye perdido", "texto": "invoque uma criatura de seu cemitério e dobre seu poder e vida", "custo": 6, "colors": ["verde", "preto","azul"]},
-    {"id": 20, "nome": "encantamento crescente", "texto": "destrua uma criatura, seu controlador sofre 2 de dano e compra cards igual à vida da criatura destruida", "custo": 3, "colors": [ "preto","azul", "vermelho"]},
+    {"id": 20, "nome": "encantamento crescente", "texto": "destrua uma criatura, seu controlador sofre 2 de dano e compra cards igual à vida da criatura destruida", "custo": 3, "colors": ["preto" ,"azul", "vermelho"]},
     {"id": 21, "nome": "encantamento perdido", "texto": "você não tem limite de mão", "custo": 2, "colors": [""]},
     {"id": 22, "nome": "eldrazi chamativo", "texto": "no inicio de seu turno, todos os oponentes perdem 10 de vida e descartam dois cards", "custo": 10, "colors": [""]},
-    {"id": 23, "nome": "truque perdido", "texto": "compre um card", "custo": 2, "colors": [""]}
+    {"id": 23, "nome": "truque perdido", "texto": "compre um card", "custo": 2, "colors": [""]},
+	{"id": 24, "nome": "macaco maluco", "texto": "crie um macaco verde e preto 5/5 com voador, e toque mortífero.", "custo": 3, "colors": ["verde", "preto"]},
+	{"id": 25, "nome": "fogo quente que arde continuamente", "texto": "cause 1 de dano a uma criatura. se ela sofrer dano novamente esse turno de outra carta ou efeito, repita.", "custo": 1, "colors": ["vermelho"]},
+	{"id": 26, "nome": "pisca pisca", "texto": "exile a criautra alvo e a retorne para o campo", "custo": 1, "colors": ["branco"]},
+	{"id": 27, "nome": "anão pistoleta", "texto": "quando uma criautra que não for token morrer, crie um token daquela criautra. Seus tokens tem +1/+1", "custo": 3, "colors": ["branco", "vermelho"]},
+	{"id": 28, "nome": "choro de arrependimento", "texto": "retroceda o jogo exatamente a como estava no final do turno anterior, depois descarte sua mão e compre cinco cartas. você perde o jogo em seu próximo início de turno", "custo": 4, "colors": ["azul", "vermelho"]},
+	{"id": 29, "nome": "exilio na miséria", "texto": "exile todas as cartas no campo. No início de sua próxima rodada, retorne elas pro campo.", "custo": 2, "colors": ["branco"]},
+	{"id": 30, "nome": "todos por dois", "texto": "compre duas cartas, cause 2 de dano a todos os oponentes, crie dois ursos verdes 2/2, receba 2 de vida para cada jogador e destrua duas criaturas", "custo": 10, "colors": ["preto", "branco", "azul", "vermelho", "verde"]},
+	{"id": 31, "nome": "florzinha maneira", "texto": "sacrifique florzinha maneira, adicione 5 de mana de qualquer cor", "custo": 0, "colors": [""]},
 ]
